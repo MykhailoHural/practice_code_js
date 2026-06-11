@@ -1,0 +1,26 @@
+/**
+ * TASK-060: Count Character
+ * 
+ * Level: EASY
+ * Topic: Strings
+ * Estimated time: 3-7 min
+ * 
+ * ═══════════════════════════════════════════════════════════
+ * ENGLISH:
+ * Дано рядок і символ. Поверни кількість входжень символу.
+ * 
+ * ═══════════════════════════════════════════════════════════
+ * UKRAINIAN:
+ * Дано рядок і символ. Поверни кількість входжень символу.
+ * 
+ * ═══════════════════════════════════════════════════════════
+ * EXAMPLES:
+ * (Check the test file for expected behavior)
+ */
+
+export function solve(input) {
+  // TODO: Write your solution here
+  // ЗАДАЧА: Напиши своє рішення тут
+  
+  throw new Error('Not implemented');
+}
